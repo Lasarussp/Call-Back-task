@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+    font-weight: 600;
+}
+p {
+    padding: 64px;
+    margin: 64px;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+}
